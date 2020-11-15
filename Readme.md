@@ -10,6 +10,8 @@ The dataset comprising of projects launched in different categories spanning acr
 
 Analysis on launch date : Analysis on the launch date will provide information on the ideal time of the year to launch a project and have higher chances of success.The data across all the years is combined by month to understand which month has the highest success rate. Launching a new project in this month will have a higher probability of success than launching it in any of the other months.
 
+![OutcomeVsGoals](https://github.com/surchand30/KickstarterAnalysis/blob/main/resources/Outcome_vs_Goals.png)
+
 Analysis on goals : Analysis on goals of successful projects will help analyse what the goal of a kickstarter project should be set to make the project successful. The goal amounts are grouped into buckets to analyze what the goal of a successful project should be set to.
 
 Challenges faced during the analysis :
